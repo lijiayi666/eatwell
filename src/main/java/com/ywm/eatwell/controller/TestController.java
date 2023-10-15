@@ -16,7 +16,7 @@ public class TestController {
 
     @GetMapping("test")
     public String test(){
-        return "ok";
+        return "ok02";
     }
 
     @GetMapping("testDB")
